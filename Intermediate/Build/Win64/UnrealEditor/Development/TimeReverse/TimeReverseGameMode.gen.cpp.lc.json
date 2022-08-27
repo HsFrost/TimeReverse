@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\inc\\timereverse\\timereversegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\timereverseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\development\\timereverse\\definitions.timereverse.h",
+            "f:\\project\\game\\unreal5\\timereverse\\source\\timereverse\\timereversegamemode.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\inc\\timereverse\\timereversegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

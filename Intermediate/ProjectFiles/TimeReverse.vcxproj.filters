@@ -11,6 +11,8 @@
     <None Include="..\..\Source\TimeReverseEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,9 +31,21 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\TimeReverse">
       <UniqueIdentifier>{ACAAC9EF-7DF5-3506-AE98-2B6DA7FF0C78}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TimeReverse\MainCharacter.cpp">
+      <Filter>Source\TimeReverse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimeReverse\MainCharacter.h">
+      <Filter>Source\TimeReverse</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TimeReverse\TimeReverse.Build.cs">
       <Filter>Source\TimeReverse</Filter>
     </None>

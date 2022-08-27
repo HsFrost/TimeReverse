@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\inc\\timereverse\\timereversecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\timereverseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\development\\timereverse\\definitions.timereverse.h",
+            "f:\\project\\game\\unreal5\\timereverse\\source\\timereverse\\timereversecharacter.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\inc\\timereverse\\timereversecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
