@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\inc\\timereverse\\timereverse.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\timereverseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project\\game\\unreal5\\timereverse\\intermediate\\build\\win64\\unrealeditor\\development\\timereverse\\definitions.timereverse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

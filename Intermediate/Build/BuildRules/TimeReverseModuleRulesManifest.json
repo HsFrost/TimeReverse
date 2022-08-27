@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverse\\TimeReverse.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverse.Target.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverseEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
