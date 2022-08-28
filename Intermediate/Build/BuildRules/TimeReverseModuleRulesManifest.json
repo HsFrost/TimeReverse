@@ -1,6 +1,12 @@
 {
 	"SourceFiles": [
 		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverse\\TimeReverse.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
 		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverse.Target.cs",
 		"F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverseEditor.Target.cs"
 	],

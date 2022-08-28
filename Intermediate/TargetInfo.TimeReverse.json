@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TimeReverse",
+			"Path": "F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TimeReverseEditor",
+			"Path": "F:\\Project\\Game\\Unreal5\\TimeReverse\\Source\\TimeReverseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

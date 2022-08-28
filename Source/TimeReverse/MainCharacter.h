@@ -6,24 +6,17 @@
 #include "GameFramework/Character.h"
 #include "MainCharacter.generated.h"
 
-class UCameraComponent;
-class USpringArmComponent; 
 
 UCLASS()
 class TIMEREVERSE_API AMainCharacter : public ACharacter
 {
-	GENERATED_BODY()
+	 GENERATED_BODY()
 
 public:
 	// Sets default values for this character's properties
 	AMainCharacter();
 
 protected:
-	
-	USpringArmComponent* SpringArmComp;
-
-	UCameraComponent* CameraComp;
-
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
@@ -33,7 +26,28 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-	
-	UPROPERTY(EditInstanceOnly,Category = "Basic Config")
-	UStaticMeshComponent* StaticMeshComponent;
+
+protected:
+	UPROPERTY(EditAnywhere)
+	class USpringArmComponent* SpringArmComp;
+
+	UPROPERTY(EditAnywhere)
+	class UCameraComponent* CameraComp;
+
+	UPROPERTY(EditAnywhere)
+	UStaticMeshComponent* StaticMeshComp;
+
+	//输入变量
+	FVector2D MovementInput;
+	FVector2D CameraInput;
+	float ZoomFactor;
+	bool bZoomingIn;
+
+	// 输入函数
+	void MoveForward(float AxisValue);
+	void MoveRight(float AxisValue);
+	void PitchCamera(float AxisValue);
+	void YawCamera(float AxisValue);
+	void ZoomIn();
+	void ZoomOut();
 };
