@@ -7,7 +7,7 @@
 #include "TimeReverseCharacter.generated.h"
 
 UCLASS(config=Game)
-class ATimeReverseCharacter : public ACharacter
+class TIMEREVERSE_API ATimeReverseCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

@@ -1,4 +1,4 @@
-F:\Project\Game\Unreal5\TimeReverse\Source\TimeReverse\TimeReverseCharacter.cpp
+F:\Project\游戏制作\Unreal5\TimeReverse\Source\TimeReverse\TimeReverseCharacter.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,8 @@ F:\Project\Game\Unreal5\TimeReverse\Source\TimeReverse\TimeReverseCharacter.cpp
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Inc\TimeReverse
-/I F:\Project\Game\Unreal5\TimeReverse\Source
+/I F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Inc\TimeReverse
+/I F:\Project\游戏制作\Unreal5\TimeReverse\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
@@ -277,12 +277,12 @@ F:\Project\Game\Unreal5\TimeReverse\Source\TimeReverse\TimeReverseCharacter.cpp
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\Definitions.TimeReverse.h"
-/Yu"F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\TimeReverseCharacter.cpp.obj"
-/sourceDependencies F:\Project\Game\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\TimeReverseCharacter.cpp.json
+/FI"F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\Definitions.TimeReverse.h"
+/Yu"F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\TimeReverseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\TimeReverseCharacter.cpp.obj"
+/sourceDependencies F:\Project\游戏制作\Unreal5\TimeReverse\Intermediate\Build\Win64\UnrealEditor\Development\TimeReverse\TimeReverseCharacter.cpp.json
 /Zc:inline
 /nologo
 /Oi

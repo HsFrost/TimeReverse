@@ -89,19 +89,19 @@ void AMainCharacter::Tick(float DeltaTime)
 }
 
 // 用于绑定输入和函数
-void AMainCharacter::SetupPlayerInputComponent(class UInputComponent* InputComponent)
+void AMainCharacter::SetupPlayerInputComponent(class UInputComponent* InputCompo)
 {
-    Super::SetupPlayerInputComponent(InputComponent);
+    Super::SetupPlayerInputComponent(InputCompo);
 
     // 为"ZoomIn"事件绑定函数
-    InputComponent->BindAction("ZoomIn", IE_Pressed, this, &AMainCharacter::ZoomIn);
-    InputComponent->BindAction("ZoomIn", IE_Released, this, &AMainCharacter::ZoomOut);
+    InputCompo->BindAction("ZoomIn", IE_Pressed, this, &AMainCharacter::ZoomIn);
+    InputCompo->BindAction("ZoomIn", IE_Released, this, &AMainCharacter::ZoomOut);
 
     // 分别为四个方向轴的移动事件绑定函数
-    InputComponent->BindAxis("MoveForward", this, &AMainCharacter::MoveForward);
-    InputComponent->BindAxis("MoveRight", this, &AMainCharacter::MoveRight);
-    InputComponent->BindAxis("CameraPitch", this, &AMainCharacter::PitchCamera);
-    InputComponent->BindAxis("CameraYaw", this, &AMainCharacter::YawCamera);
+    InputCompo->BindAxis("MoveForward", this, &AMainCharacter::MoveForward);
+    InputCompo->BindAxis("MoveRight", this, &AMainCharacter::MoveRight);
+    InputCompo->BindAxis("CameraPitch", this, &AMainCharacter::PitchCamera);
+    InputCompo->BindAxis("CameraYaw", this, &AMainCharacter::YawCamera);
 }
 
 // 输入函数

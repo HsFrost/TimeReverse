@@ -1441,6 +1441,18 @@
     <Filter Include="Source\TimeReverse">
       <UniqueIdentifier>{ACAAC9EF-7DF5-3506-AE98-2B6DA7FF0C78}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TimeReverse\ComponentTimeReverse.cpp">
+      <Filter>Source\TimeReverse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimeReverse\ComponentTimeReverse.h">
+      <Filter>Source\TimeReverse</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimeReverse\FramePackage.cpp">
+      <Filter>Source\TimeReverse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimeReverse\FramePackage.h">
+      <Filter>Source\TimeReverse</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TimeReverse\MainCharacter.cpp">
       <Filter>Source\TimeReverse</Filter>
     </ClCompile>
